@@ -123,7 +123,7 @@ By checking the checkbox, the user acknowledges the model terms linked in the UI
 
 To request allow-listing for the AI scoring endpoint, contact the team using the email address shown below:
 
-![AI Flow Scorer Contact Email](docs/ai-flow-scorer-contact.png)
+[ai-flow-scorer-aaaaszpvqjcvlecasbaonx6534@illumio.slack.com](mailto:ai-flow-scorer-aaaaszpvqjcvlecasbaonx6534@illumio.slack.com)
 
 Please include:
 
